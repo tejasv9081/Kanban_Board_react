@@ -69,9 +69,5 @@ The project leverages the following dependencies:
 ## Contributing
 Contributions are welcome! Please create a pull request or open an issue for any suggestions or improvements.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
----
-Feel free to reach out for any queries or suggestions regarding the project!
 
